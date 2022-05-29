@@ -1,0 +1,66 @@
+Nadawcy: 
+Id Nadawcy: 1, imie: Adrian, data ur: 2001-04-10, ilosc ostrzezen: 0
+Id Nadawcy: 2, imie: Michal, data ur: 2005-11-26, ilosc ostrzezen: 0
+Id Nadawcy: 3, imie: Konrad, data ur: 2006-02-06, ilosc ostrzezen: 0
+
+Statki i ich kontenery: 
+Statek o nazwie: Napoleon i ladownosci: 499
+-Kontener Podstawowy, o ID: 1, Id Nadawcy: 1, Ciezar: 56 kg, Ilosc palet: 4
+-Kontener Podstawowy, o ID: 2, Id Nadawcy: 2, Ciezar: 56 kg, Ilosc palet: 4
+-Kontener Podstawowy, o ID: 3, Id Nadawcy: 3, Ciezar: 56 kg, Ilosc palet: 4
+-Kontener Ciezki, o ID: 13, Id Nadawcy: 3, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon
+-Kontener Ciezki, o ID: 14, Id Nadawcy: 3, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon
+-Kontener Ciekle, o ID: 22, Id Nadawcy: 3, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj cieczy: Miod
+-Kontener Ciekle, o ID: 24, Id Nadawcy: 2, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj cieczy: Miod
+-Kontener Wybuchowe, o ID: 26, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj niebezpieczenstwa: Wysokie
+-Kontener Podstawowy, o ID: 9, Id Nadawcy: 1, Ciezar: 56 kg, Ilosc palet: 4
+
+Statek o nazwie: Syrenka i ladownosci: 333
+-Kontener Podstawowy, o ID: 5, Id Nadawcy: 2, Ciezar: 56 kg, Ilosc palet: 4
+-Kontener Podstawowy, o ID: 8, Id Nadawcy: 2, Ciezar: 56 kg, Ilosc palet: 4
+-Kontener Ciezki, o ID: 11, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon
+-Kontener Chlodniczy, o ID: 19, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Ilosc wyjsc do sieci: 5
+-Kontener Ciekle, o ID: 21, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj cieczy: Miod
+-Kontener Podstawowy, o ID: 10, Id Nadawcy: 2, Ciezar: 56 kg, Ilosc palet: 4
+
+Statek o nazwie: Cyrlica i ladownosci: 496
+-Kontener Ciezki, o ID: 15, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon
+-Kontener Chlodniczy, o ID: 16, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Ilosc wyjsc do sieci: 5
+-Kontener Ciekle, o ID: 23, Id Nadawcy: 3, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj cieczy: Miod
+-Kontener Wybuchowe, o ID: 30, Id Nadawcy: 3, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj niebezpieczenstwa: Wysokie
+-Kontener ToksyczneSypkie, o ID: 32, Id Nadawcy: 3, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj zanieczyszczenia: Kwas
+-Kontener ToksyczneSypkie, o ID: 35, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj zanieczyszczenia: Kwas
+-Kontener ToksyczneCiekle, o ID: 37, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj cieczy: Smolisty, Rodzaj zanieczyszczenia: Kwas
+-Kontener ToksyczneCiekle, o ID: 38, Id Nadawcy: 3, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj cieczy: Smolisty, Rodzaj zanieczyszczenia: Kwas
+-Kontener Podstawowy, o ID: 6, Id Nadawcy: 3, Ciezar: 56 kg, Ilosc palet: 4
+
+Statek o nazwie: Budda i ladownosci: 126
+-Kontener Chlodniczy, o ID: 20, Id Nadawcy: 3, Ciezar: 15 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Ilosc wyjsc do sieci: 5
+-Kontener Ciekle, o ID: 25, Id Nadawcy: 2, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj cieczy: Miod
+-Kontener Podstawowy, o ID: 4, Id Nadawcy: 3, Ciezar: 56 kg, Ilosc palet: 4
+
+Statek o nazwie: Alibaba i ladownosci: 716
+-Kontener Ciezki, o ID: 12, Id Nadawcy: 2, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon
+-Kontener Chlodniczy, o ID: 17, Id Nadawcy: 2, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Ilosc wyjsc do sieci: 5
+-Kontener Chlodniczy, o ID: 18, Id Nadawcy: 2, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Ilosc wyjsc do sieci: 5
+-Kontener Wybuchowe, o ID: 27, Id Nadawcy: 2, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj niebezpieczenstwa: Wysokie
+-Kontener Wybuchowe, o ID: 28, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj niebezpieczenstwa: Wysokie
+-Kontener Wybuchowe, o ID: 29, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj niebezpieczenstwa: Wysokie
+-Kontener ToksyczneSypkie, o ID: 31, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj zanieczyszczenia: Kwas
+-Kontener ToksyczneSypkie, o ID: 33, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj zanieczyszczenia: Kwas
+-Kontener ToksyczneSypkie, o ID: 34, Id Nadawcy: 3, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj zanieczyszczenia: Kwas
+-Kontener ToksyczneCiekle, o ID: 36, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj cieczy: Smolisty, Rodzaj zanieczyszczenia: Kwas
+-Kontener ToksyczneCiekle, o ID: 39, Id Nadawcy: 2, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj cieczy: Smolisty, Rodzaj zanieczyszczenia: Kwas
+-Kontener ToksyczneCiekle, o ID: 40, Id Nadawcy: 2, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Rodzaj cieczy: Smolisty, Rodzaj zanieczyszczenia: Kwas
+-Kontener Podstawowy, o ID: 7, Id Nadawcy: 1, Ciezar: 56 kg, Ilosc palet: 4
+
+Magazyny i ich kontenery:
+Magazyn o id: 1
+Kontener Ciekle, o ID: 41, Id Nadawcy: 2, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj cieczy: Miod
+Kontener Ciekle, o ID: 42, Id Nadawcy: 2, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj cieczy: Miod
+Kontener Podstawowy, o ID: 48, Id Nadawcy: 2, Ciezar: 56 kg, Ilosc palet: 4
+Kontener Chlodniczy, o ID: 44, Id Nadawcy: 3, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Ilosc wyjsc do sieci: 5
+Kontener Ciezki, o ID: 45, Id Nadawcy: 3, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon
+Kontener Chlodniczy, o ID: 43, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon, Ilosc wyjsc do sieci: 5
+Kontener Ciezki, o ID: 46, Id Nadawcy: 1, Ciezar: 55 kg, Ilosc palet: 4, Rodzaj Wykonczenia: Carbon
+Kontener Podstawowy, o ID: 47, Id Nadawcy: 1, Ciezar: 56 kg, Ilosc palet: 4
